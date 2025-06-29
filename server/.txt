@@ -1,0 +1,2 @@
+TAVILY_API_KEY =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
+GEMINI_API_KEY =AIzaSyC-Nw0HFnozIcchDbn8rqkzTCYoJWSsBjY
