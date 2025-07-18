@@ -91,5 +91,5 @@ You can containerize with Docker or deploy to platforms like:
 
 ## 🙌 Credits
 
-Created by [Your Name](https://github.com/yourusername)
+Created with love and frustration by Samyak
 
