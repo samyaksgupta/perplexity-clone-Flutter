@@ -1,8 +1,9 @@
 # perplexity clone
 A Flutter project.
 
-Preview
-https://github.com/user-attachments/assets/3c4a27de-177a-44cf-b034-1ccbe5cd920b
+## Preview
+
+![Preview](https://github.com/user-attachments/assets/3c4a27de-177a-44cf-b034-1ccbe5cd920b)
 
 
 ## Getting Started
