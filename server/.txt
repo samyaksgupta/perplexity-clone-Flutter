@@ -1,2 +1,3 @@
 TAVILY_API_KEY =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
 GEMINI_API_KEY =AIzaSyC-Nw0HFnozIcchDbn8rqkzTCYoJWSsBjY
+they dont work anymore even after adding them in gitgnore idk how the heck they are still here i cant even ahhhh first i was struggling this venv 2gb github kept tracking idk how the heck i am so done right now with git man 
