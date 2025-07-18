@@ -3,8 +3,7 @@ A Flutter project.
 
 ## Preview
 
-![Preview](https://github.com/user-attachments/assets/3c4a27de-177a-44cf-b034-1ccbe5cd920b)
-
+<video src="https://github.com/user-attachments/assets/3c4a27de-177a-44cf-b034-1ccbe5cd920b" controls loop></video>
 
 ## Getting Started
 
